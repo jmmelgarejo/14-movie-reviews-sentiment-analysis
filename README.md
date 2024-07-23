@@ -3,7 +3,7 @@
 This project uses analytics and language models to develope a system for filtering and categorizing movie reviews.
 Data was sourced from a dataset of IMBD movie reviews with polarity labeling to build a model for classifying positive and negative reviews (sentiment analysis). Logistic Regression and Gradient Boosting algorithms were utilized.
 
-Link: 
+Link: https://github.com/jmmelgarejo/14-movie-reviews-sentiment-analysis/blob/main/14-movie-reviews-sentiment-analysis.ipynb
 
 ## Table of Contents
 - Introduction
